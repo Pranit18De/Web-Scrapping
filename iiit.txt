@@ -1,0 +1,35 @@
+"
+S.No.","
+Name of the Organisation","
+Website"
+
+"
+1.","
+ABV -Indian Institute of Information Technology and Management
+Morena Link Road Gwalior - 474003","
+http://www.iiitm.ac.in/"
+
+"
+2.","
+Indian Institute of Information Tehnology (IIIT)
+Deoghat, Jhalwa, Allahabad - 211 002","
+http://www.iiita.ac.in/"
+
+"
+3.","
+Indian Institute of Information Tehnology, Design and Manufacturing (IIITDM)
+Kancheepuram, Melakottaiyur, Chennai - 600048","
+http://www.iiitdm.ac.in/"
+
+"
+4.","
+Pandit Dwarka Prasad Mishra Indian Institute of Information Technology, Design and Manufacturing (IIITDM)
+IT Bhawan, Jabalpur Engg. Campus, Ranjhi, Jabalpur, Madhya Pradesh - 482011","
+http://www.iiitdmj.ac.in/"
+
+"
+5.","
+Indian Institute of Information Tehnology, Design and Manufacturing (IIITDM)
+Kurnool, Andhra Pradesh - 600127","
+http://www.iiitdm.ac.in/iiitk.html"
+
